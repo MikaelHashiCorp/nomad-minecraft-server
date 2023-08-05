@@ -7,3 +7,5 @@
 5 exec
 6 custom
 7 pack
+
+Demo Video:  https://www.hashicorp.com/resources/hashicorp-nomad-explained-via-minecraft
