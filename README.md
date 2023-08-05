@@ -9,3 +9,4 @@
 7 pack
 
 Demo Video:  https://www.hashicorp.com/resources/hashicorp-nomad-explained-via-minecraft
+Additional Resource:  https://burkey.dev/post/learning-nomad-scheduling-minecraft/
